@@ -2,4 +2,35 @@ h1 {
   color: blue;
   front-size: 20px;
   text-indent: 20px;
+  text-align: center;
+  font-style: oblique;
+
+}
+h2 {
+  color: #1EDA0D;
+  front-size: 16px;
+  text-align: center;
+  font-style: italic;
+
+}
+p {
+  color: white;
+  font-style: normal;
+  text-align:center;
+}
+li {
+  color: white;
+  text-align: center;
+  align-items: center;
+}
+ul {
+  text-align: center
+}
+img {
+    display: block;
+    margin: auto;
+}
+body{
+  background-image: url("space.jpeg");
+
 }
