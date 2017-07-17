@@ -34,3 +34,9 @@ body{
   background-image: url("space.jpeg");
 
 }
+label{
+  color: white;
+}
+output {
+  color: white;
+}
